@@ -18,6 +18,6 @@ int main()
     //Exo 24
     char A = 3;
     int B = 4;
-    float C = A / B;
+    float C = (float)A / B;
     printf("%f", C);
 }
