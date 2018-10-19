@@ -19,5 +19,5 @@ int main()
     char A = 3;
     int B = 4;
     float C = A / B;
-    print("%f", C)
+    printf("%f", C);
 }
