@@ -19,5 +19,6 @@ int main()
     scrutin_t majoritaire_pluri = MAJORITAIRE_PLURI;
     scrutin_t proportiennel = PROPORTIONNEL;
     scrutin_t mixte = MIXTE;
-    printf("%d %d %d %d\n", majoritaire, majoritaire_pluri, proportiennel, mixte);
+    printf("%d %d %d %d\n",
+           majoritaire, majoritaire_pluri, proportiennel, mixte);
 }
