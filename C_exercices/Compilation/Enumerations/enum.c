@@ -5,7 +5,7 @@
 
 enum scrutin_e
 {
-    MAJORITAIRE,
+    MAJORITAIRE = 4,
     MAJORITAIRE_PLURI,
     PROPORTIONNEL,
     MIXTE
