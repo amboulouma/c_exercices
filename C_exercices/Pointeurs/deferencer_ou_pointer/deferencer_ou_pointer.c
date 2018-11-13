@@ -11,6 +11,7 @@ int main()
 
     /* Notes
         - Les différentes parties de la mémoires
+        - Répondre aux questions: "Dans quelle partie de la mémoire sont stockée ces variables locales ?"
         - Afficher un pointeur: "%p"
         - Référencer un ponteur: &p
         - Déférencer un pointeur: *p
